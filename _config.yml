@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Astroy307 / Dev blog"
+title                    : "Song Roy / Dev blog"
 title_separator          : "-"
-name                     : &name "Astroy307"
+name                     : &name "Song Roy"
 description              : &description "personal description"
 url                      : https://aytr-so37.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "aytr-so37/aytr-so37.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Song Roy"
   pronouns         : "he/him"  
   bio              : "열심히 사는 사람"
   location         : "Korea / Seoul"
