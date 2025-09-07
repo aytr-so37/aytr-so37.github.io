@@ -221,8 +221,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
+  PS:
+    output: true
+    permalint: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
